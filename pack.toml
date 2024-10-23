@@ -1,0 +1,12 @@
+name = "Opencomputers Pack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3b42017dedde75be94d445821fa546106c1e1fe691d00c4c46d8914fdde5ae2"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.21.1"

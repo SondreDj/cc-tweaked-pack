@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "6a01776c9021fc6265fc0822e5b1b52501ea97ede89e1b399d847bd6ab4d2197"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "6951c269860b7f4f5a163c2f1f1a48f0625c7756f4d566a91e30b53abc987381"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "3b0cb88e8a74eb56df9dc7bdea8cbd658ac56e2a946959a0974fd6e53618f83c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+metafile = true
+
+[[files]]
+file = "mods/villager-pickup.pw.toml"
+hash = "000764c33ae6aa2c3591f4d7fad7e72b62def8d88b3bacbcdb0f8c93baffbbba"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "4ce0b8619c26a4055a9ae47440741ed4b054d95d0c6d5e2d3f95567da165ac70"
+metafile = true
