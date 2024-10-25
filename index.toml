@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "610076c89a6e55343df37808fcf59806330eb37b4108c5b080807c95cd0c7162"
+metafile = true
+
+[[files]]
+file = "mods/banthemall.pw.toml"
+hash = "d1059673f38dda6f73406d63dd661bd7110b18d21e9fe72a20af0c85b21feda3"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "6a01776c9021fc6265fc0822e5b1b52501ea97ede89e1b399d847bd6ab4d2197"
 metafile = true
@@ -11,6 +21,11 @@ hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "6951c269860b7f4f5a163c2f1f1a48f0625c7756f4d566a91e30b53abc987381"
 metafile = true
@@ -18,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/flan.pw.toml"
 hash = "3b0cb88e8a74eb56df9dc7bdea8cbd658ac56e2a946959a0974fd6e53618f83c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "304dc7062fb4ad87fb3ab139da8340754144e8e7ba29104214a85fef41fb80dd"
 metafile = true
 
 [[files]]

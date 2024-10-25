@@ -1,0 +1,13 @@
+name = "BanThemAll"
+filename = "BanThemAll-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B70d5WGU/versions/wiwZ9S2g/BanThemAll-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "76ac24fd961b3346cc660298cf4a4831230e233a617a5393f82b19c78c7ce5e9a525661a9bf17e444bdb7aa98edd078cc683f7821011e1dbbc76e757e5ffbac6"
+
+[update]
+[update.modrinth]
+mod-id = "B70d5WGU"
+version = "wiwZ9S2g"
